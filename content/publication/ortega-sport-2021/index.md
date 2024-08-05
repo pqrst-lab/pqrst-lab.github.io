@@ -1,5 +1,5 @@
 ---
-title: 'Sport psychology in Singapore: Past, present, and future'
+title: 'Sport Psychology in Singapore: Past, Present, and Future'
 authors:
 - Emily Ortega
 - Stevenson Lai

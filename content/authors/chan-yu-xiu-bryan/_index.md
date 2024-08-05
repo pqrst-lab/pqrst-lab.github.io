@@ -26,7 +26,7 @@ education:
   courses:
     - course: BSc (Hons.) in Psychology
       institution: Singapore University of Social Sciences
-      year: 2012
+      year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

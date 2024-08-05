@@ -1,5 +1,5 @@
 ---
-title: 'The pulse of Singapore: Short-term hrv norms'
+title: 'The Pulse of Singapore: Short-Term HRV Norms'
 authors:
 - Emily Ortega
 - Chan Yu Xiu Bryan
