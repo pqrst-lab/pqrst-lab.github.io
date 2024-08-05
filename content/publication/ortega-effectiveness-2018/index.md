@@ -1,5 +1,5 @@
 ---
-title: Effectiveness of an integrated mental skills and biofeedback training program on sport shooters
+title: Effectiveness of an Integrated Mental Skills and Biofeedback Training Program on Sport Shooters
 authors:
 - Emily Ortega
 - C. K. J. Wang
