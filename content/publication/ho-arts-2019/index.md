@@ -1,5 +1,5 @@
 ---
-title: 'Arts for ageing well: A propensity score matching analysis of the effects of arts engagements on holistic well-being among older Asian adults above 50 years of age'
+title: 'Arts for Ageing Well: A Propensity Score Matching Analysis of the Effects of Arts Engagements on Holistic Well-Being among Older Asian Adults above 50 Years of Age'
 authors:
 - Andy Hau Yan Ho
 - Stephanie Hilary Xinyi Ma

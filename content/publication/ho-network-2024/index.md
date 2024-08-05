@@ -8,8 +8,9 @@ authors:
 - Sabrina Tang Seng Ooi
 date: '2024-09-03'
 publishDate: '2024-04-30T08:26:38.796678Z'
-publication_types:
-- Conference Presentation
+# refer to CSL https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+publication_types: 
+- paper-conference
 publication: 'Conference on Complex Systems 2024'
 doi: 
 links:

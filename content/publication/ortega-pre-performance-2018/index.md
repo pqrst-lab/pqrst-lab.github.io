@@ -1,5 +1,5 @@
 ---
-title: 'Pre-performance physiological state: Heart rate variability as a predictor of shooting performance'
+title: 'Pre-Performance Physiological State: Heart Rate Variability as a Predictor of Shooting Performance'
 authors:
 - Emily Ortega
 - C. J. K. Wang
