@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Azriel Tay Xunkai
+title: Tay Xunkai Azriel
 
 # Full name (for SEO)
 first_name: Azriel
@@ -21,13 +21,17 @@ organizations:
 bio: 
 
 interests:
+  - Volunteerism
+  - Talent Selection and Assessment
+  - Well-being and Positive Psychology
+  - Causal Analysis
 
 
 education:
   courses:
     - course: Master of Psychology (Organisational)
       institution: Singapore University of Social Sciences
-      year: 2024
+      year: 2025
     - course: Bachelor of Psychological Science (Hons.)
       institution: James Cook University, Singapore
       year: 2020
