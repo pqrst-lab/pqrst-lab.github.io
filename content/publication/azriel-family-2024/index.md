@@ -14,6 +14,8 @@ publication_types:
 publication: 'Asian Family Conference 2024'
 doi: 
 links:
+  - name: Slides
+    url: 'AFC_time_use_01112024_Final.pdf'
 tags:
 - time-use
 ---
