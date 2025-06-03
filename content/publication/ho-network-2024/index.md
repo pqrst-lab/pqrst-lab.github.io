@@ -16,6 +16,8 @@ doi:
 links:
 - name: GitHub
   url: https://github.com/ho-han-sheng/CCS24-submission
+- name: Slides
+  url: "ho-network-2024.pptx"
 tags:
 - time-use
 ---
