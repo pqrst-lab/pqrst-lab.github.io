@@ -10,7 +10,7 @@ last_name: Ortega
 superuser: true
 
 # Role/position
-role: Associate Professor <br> Head of Programme (Psychology) <br> Principal Swiftie
+role: Associate Professor <br> Dean, School of Humanities and Behavioural Sciences <br> Principal Swiftie
 
 # Organizations/Affiliations
 organizations:

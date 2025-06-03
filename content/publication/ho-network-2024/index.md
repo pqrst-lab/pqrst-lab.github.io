@@ -4,7 +4,7 @@ authors:
 - Ho Han Sheng
 - Emily Ortega
 - Chan Yu Xiu Bryan
-- Azriel Tay Xunkai
+- Tay Xunkai Azriel
 - Sabrina Tang Seng Ooi
 date: '2024-09-03'
 publishDate: '2024-04-30T08:26:38.796678Z'
@@ -16,6 +16,8 @@ doi:
 links:
 - name: GitHub
   url: https://github.com/ho-han-sheng/CCS24-submission
+- name: Slides
+  url: "ho-network-2024.pptx"
 tags:
 - time-use
 ---
