@@ -15,6 +15,7 @@ sections:
           - Research Associates
           - Research Assistants
           - Chief Morale Officers
+          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:

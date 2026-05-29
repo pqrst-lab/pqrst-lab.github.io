@@ -10,7 +10,7 @@ last_name: Ho
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Lab Manager <br> Research Assistant
 
 # Organizations/Affiliations
 organizations:
