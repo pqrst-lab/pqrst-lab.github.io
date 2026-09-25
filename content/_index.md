@@ -28,8 +28,8 @@ sections:
         #icon: download
       # Optionally, add an alternative CTA link
       cta_alt:
-        label: View our publications
-        url: /publication
+        label: Join us
+        url: /join
     design:
       # Choose an optional background color, gradient, image, or video
       background:
